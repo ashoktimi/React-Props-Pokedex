@@ -1,0 +1,24 @@
+.Pokecard{
+    background-color: aliceblue;
+    display: inline-block;
+    margin: .5rem;
+    padding: .5rem;
+    border-radius: 0.4rem;
+    width: 200px;
+    height: 250px;
+}
+
+ .Pokecard-header{
+    text-align: center;
+}
+
+.CartItem-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
+
+.Pokecard-ul{
+    margin-left: 1rem;
+}
